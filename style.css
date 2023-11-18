@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Actor&family=Roboto:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: roboto;
+}
+
+header {
+    height: 80vh;
+    background-color: #129799;
+}
+
+.link {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+}
+
+a {
+    color: #F7F7F7;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.banner {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+h1 {
+    color: #F7F7F7;
+    font-size: 64px;
+}
+
+.sessoes {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 10vh;
+}
+
+main {
+    background-color: #FFA185;
+   
+}
+
+.texto{
+    height: 12rem;
+}
+
+h2 {
+    padding: 2rem 0 1rem 2rem;
+    color: #F7F7F7;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+p {
+    padding: 0 0 0 2rem;
+    font-size: 1.5rem;
+}
+
+.box {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 54vh;
+}
+
+.box img {
+    width: 45vw;
+}
+
+figcaption {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    height: 20vh;
+    color: #000000;
+    font-weight: 700;
+}
+
+footer {
+    background-color: #129799;
+    color: #F7F7F7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 80px;
+    height: 25vh;
+  }
+
+  footer nav {
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+  }
+
+  /*Mobile*/
+  @media (max-width:480px) {
+    header img {
+        width: 80vw;
+    }
+
+    .link {
+        height: 20vh;
+    }
+
+    nav a {
+        font-size: 1.1rem;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    .banner {
+        flex-direction: column;
+    }
+
+    .texto {
+        height: 43vh;
+        padding: 0.7rem;
+    }
+
+    .box {
+        flex-direction: column;
+        height: 78vh;
+    }
+
+    .box figure img {
+        margin-top: 0.8rem;
+        width: 80vw;
+    }
+
+    figcaption {
+        font-size: 1.2rem;
+    }
+
+    footer {
+        flex-direction: column;
+        height: 40vh;
+    }
+
+    footer figure {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 70vw;
+        height: 20vh;
+    }
+
+    footer nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        height: 20vh;
+        width: 70vw;
+    }
+
+  }
