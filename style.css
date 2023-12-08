@@ -129,7 +129,6 @@ footer nav a:hover {
   color: #ffa185;
 }
 
-/*Mobile*/
 @media (max-width: 480px) {
   header img {
     width: 80vw;
@@ -192,7 +191,6 @@ footer nav a:hover {
   }
 }
 
-/*Extra small devices*/
 @media (min-width: 481px) and (max-width: 767px) {
   .link {
     height: 15vh;
@@ -257,8 +255,6 @@ footer nav a:hover {
   }
 }
 
-/*Tablets*/
-
 @media (min-width: 768px) and (max-width: 991px) {
   .link {
     height: 15vh;
@@ -322,7 +318,6 @@ footer nav a:hover {
   }
 }
 
-/*Laptops*/
 @media (min-width: 992px) and (max-width: 1199px) {
   header {
     height: 65vh;
