@@ -13,10 +13,12 @@ O código-fonte está estruturado em HTML para a marcação e CSS para a estiliz
 O projeto é totalmente responsivo, adaptando-se a diferentes dispositivos, desde smartphones até laptops, para garantir uma experiência consistente.
 
 ## Visualização Online
-Você pode visualizar o projeto online aqui.
+Você pode visualizar o projeto online aqui:
+
+- **GitHub Pages:** https://michelita07.github.io/Ritmo_da_batida/
 
 ## Contato
-Se tiver alguma dúvida ou desejar entrar em contato, sinta-se à vontade para fazê-lo através das redes sociais.
+Se tiver alguma dúvida ou desejar entrar em contato, sinta-se à vontade para fazê-lo através das redes sociais:
 
 - **Linkedin:** https://www.linkedin.com/in/michele-costaa/
 - **E-mail:** michemichele99@gmail.com
