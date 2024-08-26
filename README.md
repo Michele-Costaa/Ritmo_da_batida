@@ -15,7 +15,7 @@ O projeto é totalmente responsivo, adaptando-se a diferentes dispositivos, desd
 ## Visualização Online
 Você pode visualizar o projeto online aqui:
 
-- **GitHub Pages:** https://michelita07.github.io/Ritmo_da_batida/
+- **GitHub Pages:** https://michele-costaa.github.io/Ritmo_da_batida/
 
 ## Contato
 Se tiver alguma dúvida ou desejar entrar em contato, sinta-se à vontade para fazê-lo através das redes sociais:
